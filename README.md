@@ -20,7 +20,6 @@ This project is built using a decoupled architecture consisting of two primary r
 
 ### Frontend Installation & Execution
 ```powershell
-# Navigate to frontend folder
 cd portfolio-frontend
 npm install
 npm run dev
